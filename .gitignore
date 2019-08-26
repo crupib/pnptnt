@@ -7,5 +7,8 @@
 
 # .tfvars files
 *.tfvars
+<<<<<<< HEAD
 
 junk
+=======
+>>>>>>> b735a2855ace03ec789b5b4f065c89d0650567c5
